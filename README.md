@@ -1,4 +1,4 @@
-# Frictionless_shopping
+# Frictionless_Shopping
 
 Frictionless shopping is a concept that aims to make the shopping experience as smooth and effortless as possible for customers. This GitHub repository contains the code for a sample application that demonstrates some of the key principles of frictionless shopping.
 
@@ -43,5 +43,5 @@ Overall, the goal of frictionless technology is to remove as many barriers as po
 ## Authors
 
 - [Arnav](https://www.github.com/Arnav131003)
-- [Ankit]()
+- [Ankit](https://github.com/Ankit-2409)
 - [Pratham](https://github.com/pratham-agarwalla)
