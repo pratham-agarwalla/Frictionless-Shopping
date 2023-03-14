@@ -36,7 +36,8 @@ Here are some ways that frictionless technology can work:
 
 Overall, the goal of frictionless technology is to remove as many barriers as possible from the shopping experience and make it as easy and effortless as possible for customers to find and purchase the products they need.
 
-
+## Document 
+[Doc](https://github.com/Arnav131003/Frictionless_shopping/files/10964168/FRICTIONLESS.SHOPPING.TECHNOLOGY.USING.SMART.TROLLEY.pdf)
 
 
 ## Authors
